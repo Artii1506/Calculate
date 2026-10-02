@@ -7,7 +7,6 @@ root.title("Quản lý sinh viên")
 root.geometry("450x400")
 
 # --------------
-btn = tk.Button(root,text="ok",command="âsasasas")
-btn.pack()
+
 # ----------------------
 root.mainloop()
